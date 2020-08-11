@@ -11,8 +11,7 @@
 + Kursun toplam ücreti __KDV dahil 1.600 TL__‘dir. Öğrencilere (öğrencilik durumunu belgelemeleri kaydıyla) `%10` indirim uygulanmaktadır. Katılımcılar kurs ücretini dilerlerse __2 taksitte__ ödeyebilirler.
 
 ## Kursla ilgili bağlantılar
-+ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Python_Programlama_Dili_ve_Uygulamalari/blob/master/_kurs_tanitimi.md
-)
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Python-Programlama-Dili-Uygulamalari/blob/master/_kurs_tanitimi.md)
 + [Kurs İçeriği - Temel Kısım](https://github.com/CSD-1993/Pyton_Programlama_Dili_ve_Uygulamalari/blob/master/kurs_icerigi_temel_kisim.md)
 + [Kurs İçeriği - Uygulama Kısmı](https://github.com/CSD-1993/Pyton_Programlama_Dili_ve_Uygulamalari/edit/master/kurs_icerigi_uygulama.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Pyton_Programlama_Dili_ve_Uygulamalari/blob/master/sss.md)
