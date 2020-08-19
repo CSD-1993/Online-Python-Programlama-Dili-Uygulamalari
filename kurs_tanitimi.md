@@ -12,7 +12,7 @@ Kursun temel özellikleri şöyle betimlenebilir:
 Bu kurs için katılımcıların temel düzeyde __Python__ diline hakim olmaları gerekmektedir. 
 
 ## Eğitim Süresi
-Eğitim Süresi __80__ Saattir.
+Eğitim Süresi __90__ Saattir.
 
 ## Ders Saatleri
 Dersler __Cumartesi-Pazar__ günleri saat __17:00-21:00__ saatleri arasında __4__'er saat olarak __(haftada 8 saat)__ yapılacaktır.
